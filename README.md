@@ -39,9 +39,7 @@ p.then(console.log)
     .then(null, console.log);
 ;
 
-Promise.all(1,p,).then(console.log);
 ```
-
 
 
 
