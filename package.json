@@ -1,0 +1,14 @@
+{
+  "name": "promise_tim",
+  "version": "1.0.0",
+  "description": "simple promise implementation ",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Tim Zhang",
+  "license": "ISC"
+}
